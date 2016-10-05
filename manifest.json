@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "UrbanDictionary Search",
+  "name": "Google Search",
   "short_name": "Search",
-  "description": "Searches for the selected text in the UrbanDictionary",
+  "description": "Searches for the selected text in the Google",
   "version": "0.0.1",
   "minimum_chrome_version": "38",
   "permissions": [
