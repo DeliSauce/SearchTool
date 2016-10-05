@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Google Search",
+  "name": "Open Article",
   "short_name": "Search",
-  "description": "Searches for the selected text in the Google",
+  "description": "Searches for the selected text and opens article in a new table. Good for pay wall circumvention",
   "version": "0.0.1",
   "minimum_chrome_version": "38",
   "permissions": [
