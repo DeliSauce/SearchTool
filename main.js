@@ -1,7 +1,7 @@
 searchSites = function(word){
   var query = word.selectionText;
   chrome.tabs.create({url: "https://www.google.com/search?q=" + query});
-  chrome.tabs.create({url: "https://duckduckgo.com/?q=!ducky" + query});
+  chrome.tabs.create({url: "https://duckduckgo.com/?q=!ducky+" + query});
 };
 
 chrome.contextMenus.create({
